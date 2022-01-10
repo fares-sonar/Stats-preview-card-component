@@ -9,7 +9,8 @@ Thanks for checking out this front-end coding challenge.
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 ### links
-[live site]
+
+[live site](https://fares-sonar.github.io/Stats-preview-card-component/)
 
 [codePen](https://codepen.io/fares-sonar/pen/vYezVXz)
 
